@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href={{ url_for('static', filename='style.css') }}/>
+
+<div class="CABECERA">
+	<header>
+		<h1>Entrada Principal</h1>
+	</header>
+		<input type="button" value="LOG IN" id="BotonLogIn">
+
+
+</div>
+
+</head>
+
+<body>
+<div class= "Contenido">
+	<div class= "MenuLateral">
+		<a href="#" class="active">Home</a>
+  		<a href="#">LogIn</a>
+  		<a href="#">Link 2</a>
+  		<a href="#">Link 3</a>
+  		<a href="#">Link 4</a>
+	</div>
+
+<div class= "CUERPO">
+		<p></p>
+	<div class= "CONTAINER_CATALOGO">
+
+		{% for item in movies %}
+		<li>
+			<p>Titulo: {{ item.titulo }} </p>
+			<a href="http://www.tutorialehtml.com" title="{{ item.titulo }}">
+				<img alt="{{ item.titulo }}" src="{{url_for('static', filename=item.poster)}}" height="100" width="200"/>
+			</a>
+			<p>Precio: {{ item.precio }} </p>
+			</li>
+		{% endfor %}
+
+	</div>
+
+</div>
+</div>
+
+<footer> Contacto </footer>
+</body>
+</html>

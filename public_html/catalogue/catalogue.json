@@ -1,0 +1,198 @@
+{ "peliculas":
+  [
+    {
+			"id": 1,
+			"titulo": "La guerra de las galaxias: Episodio 1-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 2,
+			"titulo": "La guerra de las galaxias: Episodio 2-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 433,
+			"titulo": "La guerra de las galaxias: Episodio 3-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 233,
+			"titulo": "La guerra de las galaxias: Episodio 3-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 123,
+			"titulo": "La guerra de las galaxias: Episodio 3-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 13,
+			"titulo": "La guerra de las galaxias: Episodio 3-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 9,
+			"titulo": "La guerra de las galaxias: Episodio 3-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 8,
+			"titulo": "La guerra de las galaxias: Episodio 3-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 7,
+			"titulo": "La guerra de las galaxias: Episodio 3-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 6,
+			"titulo": "La guerra de las galaxias: Episodio 3-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 4,
+			"titulo": "La guerra de las galaxias: Episodio 3-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    },
+    {
+			"id": 5,
+			"titulo": "La guerra de las galaxias: Episodio 3-La amenaza fantasma",
+      "poster": "imagenes/starwars.jpg",
+      "director": "George Lucas",
+      "precio": 18.99,
+      "categoria": "Aventura",
+      "año": 1999,
+      "actores":
+      [
+        { "nombre": "Jake Lloyd",
+          "personaje": "Anakin Skywalker",
+          "foto": "imagenes/starwars.jpeg"
+        }
+      ]
+    }
+
+
+  ]
+}

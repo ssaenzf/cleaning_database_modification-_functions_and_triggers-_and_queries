@@ -1,0 +1,101 @@
+
+div.CABECERA{
+  background-color: #F1F1F1;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  height: 90px;
+}
+
+
+div.Contenido{
+	display: flex;
+	background-color: lightblue;
+	height: 400px;
+
+}
+
+div.CABECERA header{
+	width: 100%;
+	margin-left:500px;
+	
+	margin-top: 5px;
+	
+}
+
+div.CABECERA input{
+	text-align: right;
+	margin-right: 10px;
+	margin-left: 200px;
+	height: 70px;
+}
+
+
+div.CUERPO fieldset{
+  margin-left: 10px;
+  padding: 70px;
+  text-align: right;
+}
+	
+div.MenuLateral {
+  width: 150px;
+}
+div.MenuLateral a {
+background-color: #eee;
+  color: black;
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+}
+
+div.MenuLateral a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+div.MenuLateral a:hover {
+  background-color: #ccc;
+}
+
+div.CONATINER_CATALOGO{
+  display: flex;
+  flex-direction: row;
+  
+}
+
+div.CONTAINER_CATALOGO img{
+	float: right;
+	margin-left: 30px;
+}
+
+table.tabla {
+
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 150%;
+  text-align: left
+}
+
+
+table.tabla > th, td{
+  border: 1px;
+  margin-left:100px;
+  text-align: left;
+  padding: 50px;
+}
+div.CONTAINER_HISTORIAL > a {
+  padding: 14px 25px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  
+}
+footer {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 60px;
+  overflow: hidden;
+}
+
+
+

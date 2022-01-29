@@ -1,0 +1,103 @@
+
+div.CABECERA{
+  background-color: #F1F1F1;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  height: 90px;
+  position: fixed;
+}
+
+
+div.Contenido{
+	display: flex;
+	background-color: lightblue;
+  height: 600px;
+  width: 400px;
+  overflow: auto;
+
+}
+
+div.CABECERA header{
+	width: 100%;
+	margin-left:500px;
+
+	margin-top: 5px;
+
+}
+
+div.CABECERA input{
+	text-align: right;
+	margin-right: 10px;
+	margin-left: 200px;
+	height: 70px;
+}
+
+
+div.CUERPO {
+  height: 500px;
+  width: 300px;
+  overflow: auto;
+  margin-left: 10px;
+  text-align: right;
+}
+
+div.MenuLateral {
+  width: 150px;
+  position: fixed;
+}
+div.MenuLateral a {
+background-color: #eee;
+  color: black;
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+}
+
+div.MenuLateral a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+div.MenuLateral a:hover {
+  background-color: #ccc;
+}
+
+div.CONTAINER_CATALOGO li {
+  padding: 14px 25px;
+  text-align: left;
+  text-decoration: none;
+  display: block;
+}
+
+table.tabla {
+
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 150%;
+  text-align: left
+}
+
+
+table.tabla > th, td{
+  border: 1px;
+  margin-left:100px;
+  text-align: left;
+  padding: 50px;
+}
+
+div.CONTAINER_HISTORIAL > a {
+  padding: 14px 25px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+
+}
+footer {
+
+  bottom: 0;
+  background-color: #F1F1F1;
+  text-align: center;
+  height: 60px;
+  padding: 60px;
+}
